@@ -2,7 +2,7 @@
 
 <h1 align="center"> Práticas de Introdução à Programação </h1>
 
-<p>Esse projeto e exercícios foram desenvolvidos com a seguinte tecnologia: </p>
+<p>Esses projetos e exercícios foram desenvolvidos com a seguinte tecnologia: </p>
 <ul>
   <li>C</li>
 </ul>
