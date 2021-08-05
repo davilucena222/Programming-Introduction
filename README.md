@@ -19,5 +19,5 @@
   <li>stdbool.h</li>
 </ul>
 
-<h2>💻 Sobre os projetos e exercîcios: </h2>
+<h2>💻 Sobre os projetos e exercícios: </h2>
 <p>Todos os projetos e exercícios que se encontram neste repositório foram desenvolvidos com o objetivo de pôr em prática o conhecimento obtido ao longo dos estudos.</p>
